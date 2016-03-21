@@ -42,7 +42,7 @@ keywords: "angel, muelas, technology, computer science, Pwn Mail, WriteRight"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/opera.jpg"
+background-img: "../img/back.jpg"
 me-img: "/img/me.jpg"
 
 ##############################
@@ -93,22 +93,22 @@ disqus-shortname: "myolnir"
 events:
   - image: "/img/career/packlink.png"
     date: "January 2015 - Today"
-    description: "Senior Software Engineer @ Packlink.com, working @ the <a href=\"https://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
+    description: "Senior Software Engineer @ Packlink.com, working @ the <a href=\"http://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
   - image: "/img/career/factoria_etsia.png"
     date: "January 2012 - January 2015"
-    description: "Functional Analyst / Java Architect @ Factoria ETSIA, worked @ the <a href=\"https://www.betcompara.com/inicio\" target=\"_blank\"> Betcompara</a>"
+    description: "Functional Analyst / Java Architect @ Factoria ETSIA, worked @ <a href=\"http://www.betcompara.com/inicio\" target=\"_blank\"> Betcompara</a>"
   - image: "/img/career/indra.jpg"
     date: "February 2011 - January 2012"
     description: "Functional Analyst @ TIBCO analyst for Ferrovial and OHL for their projects for tolls motorways without barriers working remotely with Mexico, Portugal and Chile."
-  - image: "/img/career/panel.jpg"
+  - image: "/img/career/panel.png"
     date: "May 2007 - February 2011"
     description: "Programmer Analyst @ Several develoments for Orange, working first as a senior programmer and later as a team lead of a small department (3 people), doing the requirements analysis, design and development of the client J2EE applications, planning and revieweing the team work."
-  - image: "/img/career/sogeti.jpg"
+  - image: "/img/career/sogeti.jpeg"
     date: "November 2005 - May 2007"
     description: "Senior Programmer @ Development over Java J2EE for different clients of telecom sector (Movistar, France Telecom...) and transportation (Iberia)"
-  - image: "/img/career/uned.jpg"
+  - image: "/img/career/uned.png"
     date: "October 2007 - September 2011"
-    description: "IT studies @ <a href=\"http://uned.es\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science"
+    description: "IT studies @ <a href=\"http://www.uned.es\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science"
 
 # First image of the Career timeline
 timeline-img: "/img/career/default.jpg"
