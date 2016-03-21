@@ -1,19 +1,19 @@
 ---
 layout: post
 section-type: post
-title: How to build a docker image
+title: How to build and push a docker image
 category: tech
 tags: [ 'tutorial', 'docker' ]
 ---
 
 First of all you must to create a <a href="https://docs.docker.com/engine/reference/builder/" target="\_blank">Dockerfile</a> 
 for your image, in a nutshell a Dockerfile is a guideline 
-that sais to docker hub what it have todo, which are the steps and hoy it have to execute it.
+that says to docker hub what it have to do, which are the steps and how it have to execute it.
 
-To upload an image to official docker hub repository you must to have an account, is free and you can link
+To upload an image to official docker hub repository you must have an account, is free and you can link
 with your github whether you want.
 
-Once you have the Dockerfile and your docker account you must to follow this steps:
+Once you have the Dockerfile and your docker account just follow these steps:
 
 ## 1. Login in your docker hub account
 
@@ -53,6 +53,7 @@ When you know the name of the image you have to upload it
 docker push "your_image_name"
 <code>
 
+Please bear in mind that push process could take a long time, be patient.
 
 
 
