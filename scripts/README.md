@@ -18,4 +18,3 @@ generate-tag
 
 integrate-personal
   - Integrates the latest bug fixes and new features from personal-jekyll-theme repository.
-  Make sure to read [this](https://github.com/PanosSakkos/personal-jekyll-theme/wiki/Integrating-latest-bug-fixes-and-features-into-your-past-fork) before using it.

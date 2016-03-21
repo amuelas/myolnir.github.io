@@ -35,7 +35,7 @@ lang: "en"
 title: "{ Angel Muelas }"
 favicon: "/img/favicon.ico"
 description: "Blog of Angel Muelas, blogging mainly about tech. Opinions expressed are mine."
-keywords: "angel, muelas, technology, computer science, Pwn Mail, WriteRight"
+keywords: "angel, muelas, technology, computer science, java, scala, groovy, tdd"
 
 ################
 # Intro layout #
@@ -63,7 +63,7 @@ type-speed: 4 # Default 10
 start-delay: 2000 # Default 200
 delete-delay: 50000 # Default 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Why so serious?"
+  - text: "Are you ready?"
 
 ########
 # Blog #
