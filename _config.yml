@@ -1,0 +1,156 @@
+
+# Site settings
+
+url: "https://myolnir.github.io"
+baseurl: ""
+google-tracking-id: "UA-75361052-1"
+force-https: True
+
+syntax-highlight: True
+
+# Sections shown in the index page
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
+
+web-app-mode: True
+
+# Icons for Chrome Web App mode https://developer.chrome.com/multidevice/android/installtohomescreen
+icon-36p: "/img/web-app/icon-36p.png"
+icon-48p: "/img/web-app/icon-48p.png"
+icon-72p: "/img/web-app/icon-72p.png"
+icon-96p: "/img/web-app/icon-96p.png"
+icon-144p: "/img/web-app/icon-144p.png"
+icon-192p: "/img/web-app/icon-192p.png"
+
+#############
+# HTML Head #
+#############
+
+author: "Angel Muelas"
+lang: "en"
+title: "{ Angel Muelas }"
+favicon: "/img/favicon.ico"
+description: "Blog of Angel Muelas, blogging mainly about tech. Opinions expressed are mine."
+keywords: "angel, muelas, technology, computer science, Pwn Mail, WriteRight"
+
+################
+# Intro layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+background-img: "../img/opera.jpg"
+me-img: "/img/me.jpg"
+
+##############################
+# Color the browser elements #
+##############################
+color-browser: "#000000"
+apple-status-bar-style: "black"
+
+##############################
+# Dynamic Text on the header #
+##############################
+
+dynamic-typing: True
+shuffle: Flase # Shuffle the lines.
+loop: False
+loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
+type-speed: 4 # Default 10
+start-delay: 2000 # Default 200
+delete-delay: 50000 # Default 5000
+lines: # You can add HTML Tags in the Text
+  - text: "Why so serious?"
+
+########
+# Blog #
+########
+
+post-preview-words: 96
+
+paginate: 5
+
+email-share: True
+fb-share: True
+twitter-share: True
+linkedin-share: True
+reddit-share: True
+google-plus-share: True
+tumblr-share: True
+pinterest-share: True
+pocket-share: True
+vkontakte-share: True
+
+disqus-shortname: "myolnir"
+
+###############
+# Life Events #
+###############
+
+events:
+  - image: "/img/career/packlink.png"
+    date: "January 2015 - Today"
+    description: "Senior Software Engineer @ Packlink.com, working @ the <a href=\"https://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
+  - image: "/img/career/factoria_etsia.png"
+    date: "January 2012 - January 2015"
+    description: "Functional Analyst / Java Architect @ Factoria ETSIA, worked @ the <a href=\"https://www.betcompara.com/inicio\" target=\"_blank\"> Betcompara</a>"
+  - image: "/img/career/indra.jpg"
+    date: "February 2011 - January 2012"
+    description: "Functional Analyst @ TIBCO analyst for Ferrovial and OHL for their projects for tolls motorways without barriers working remotely with Mexico, Portugal and Chile."
+  - image: "/img/career/panel.jpg"
+    date: "May 2007 - February 2011"
+    description: "Programmer Analyst @ Several develoments for Orange, working first as a senior programmer and later as a team lead of a small department (3 people), doing the requirements analysis, design and development of the client J2EE applications, planning and revieweing the team work."
+  - image: "/img/career/sogeti.jpg"
+    date: "November 2005 - May 2007"
+    description: "Senior Programmer @ Development over Java J2EE for different clients of telecom sector (Movistar, France Telecom...) and transportation (Iberia)"
+  - image: "/img/career/uned.jpg"
+    date: "October 2007 - September 2011"
+    description: "IT studies @ <a href=\"http://uned.es\" target=\"_blank\">Department of Informatics and Telecommunications</a> on Computer Science"
+
+# First image of the Career timeline
+timeline-img: "/img/career/default.jpg"
+
+##################
+# Contact layout #
+##################
+
+email: "angel.muelas@gmail.com"
+
+##################
+# Social Buttons #
+##################
+
+social:
+  - title: "github"
+    url: "https://github.com/myolnir"
+  - title: "linkedin"
+    url: "https://es.linkedin.com/in/angel-muelas-martinez-49a46027"
+  - title: "rss"
+    url: "/feed.xml"
+
+############
+# 404 page #
+############
+
+404-img: "/img/labtocat.png"
+
+################################################################################
+
+# Tread carefully if you want to change the variables bellow this point!
+
+# Pagination path
+paginate_path: "blog/page:num"
+
+# Enable minification SASS
+sass:
+  style: compressed
+
+# Exclusion list from the generated _site
+exclude: ["Rakefile", "LICENSE", "readme.markdown", "vendor"]
+
+gems:
+  - jekyll-paginate
+  - jemoji
