@@ -84,6 +84,7 @@ Lets explain this piece of code by steps:
 3. We need initialize the annotations to "tell" to Mockito which are the objects should inject to the service test.
 4. Finally we develop our test like any other one, to the mock objects we indicate which should be their behaviour and we test our service class.
 
-As you can see this way of testing is very powerful and allow us test common spring classes that usually include one or more injections without worried about this injections and only focus in the testing of our service.
+As you can see this way of testing is very powerful and allow us test common spring classes that usually include one or more injections without worried about this injections and only focus 
+in the testing of our service.
 
 Other possibility of testing our service class is inject their dependencies by constructor, it will allow us made the tests without @InjectMocks but this will be treated in other post.
