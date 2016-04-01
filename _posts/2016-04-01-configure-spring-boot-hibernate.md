@@ -39,9 +39,9 @@ For maven:
 Once we have the dependencies imported in our project, is time to configure our application.properties, this is the file in which we indicated to spring the database, username, driver, etc...
 
 ````
-spring.datasource.url=jdbc:mysql://localhost/world
-spring.datasource.username=root
-spring.datasource.password=admin
+spring.datasource.url=jdbc:mysql://localhost/test
+spring.datasource.username=yourUsername
+spring.datasource.password=yourPassword
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=create-drop
 
