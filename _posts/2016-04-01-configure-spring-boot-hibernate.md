@@ -137,7 +137,7 @@ We can call the method save with an instance of our RelationalObject and a new t
 
 This is the basic configuration, obviously you can extend it much more, you can nested entities, but for start with a basic application this is enough.
 
-You can see the complete code <a href: "https://github.com/Myolnir/springBoot-skeleton" target: "_blank">in my github repository</a>
+You can see the complete code <a href: "https://github.com/Myolnir/springBoot-hibernate" target: "_blank">in my github repository</a>
 
 Enjoy it!!
 
