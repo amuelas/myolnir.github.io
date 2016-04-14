@@ -91,9 +91,12 @@ disqus-shortname: "myolnir"
 ###############
 
 events:
+  - image: "/img/career/momit.jpg"
+    date: "April 2016 - Today"
+    description: "Senior Software Engineer / Java Architect @ Momit.com, working as a Java architect and team lead for all the company projects. <a href=\"http://www.momit.com\" target=\"_blank\"> Momit</a>"
   - image: "/img/career/packlink.png"
-    date: "January 2015 - Today"
-    description: "Senior Software Engineer @ Packlink.com, working @ the <a href=\"http://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
+    date: "January 2015 - March 2016"
+    description: "Senior Software Engineer @ Packlink.com, worked @ the <a href=\"http://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
   - image: "/img/career/factoria_etsia.png"
     date: "January 2012 - January 2015"
     description: "Functional Analyst / Java Architect @ Factoria ETSIA, worked @ <a href=\"http://www.betcompara.com/inicio\" target=\"_blank\"> Betcompara</a>"
