@@ -93,7 +93,7 @@ disqus-shortname: "myolnir"
 events:
 #  - image: "/img/career/momit.jpg"
 #    date: "April 2016 - Today"
-#    description: "Senior Software Engineer / Java Architect @ Momit.com, working as a Java architect and team lead for all the company projects. <a href=\"http://www.momit.com\" target=\"_blank\"> Momit</a>"
+#    description: "Senior Software Engineer / Java Architect @ Momit.com, working as a Java architect and team lead for all the company projects, migrating all of them to a new platform based in microservices. <a href=\"http://www.momit.com\" target=\"_blank\"> Momit</a>"
   - image: "/img/career/packlink.png"
     date: "January 2015 - March 2016"
     description: "Senior Software Engineer @ Packlink.com, worked @ the <a href=\"http://pro.packlink.com\" target=\"_blank\"> Packlink</a>"
