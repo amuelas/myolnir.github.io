@@ -1,3 +1,12 @@
+---
+layout: post
+section-type: post
+title: How to instal Sonartype Nexus Server
+category: tech
+tags: [ 'tutorial', 'nexus', 'dependencies' ]
+---
+
+
 In my current job position, I have to improve an very old architecture to a brand new one.
 
 The first thing what caught my attention was that there is not any CI environment, no jenkins, no sonar, even no a version control system like maven, gradle...., they manage their libraries manually!!!.
