@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: How to instal Sonartype Nexus Server
+title: How to install Sonartype Nexus Server
 category: tech
 tags: [ 'tutorial', 'nexus', 'dependencies' ]
 ---
